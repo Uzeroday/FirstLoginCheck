@@ -1,0 +1,4 @@
+name: Tutorial1
+version: ${project.version}
+main: example.tutorial1.Tutorial1
+api-version: 1.15
